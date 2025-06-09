@@ -1,6 +1,8 @@
 ---
 title: C# 문법 기초 1 - C++과 다른 점
 date: 2025-06-09 18:00:00 +0900
+description: Short summary of the post.
 categories: [Programming, C#]
 tags: [c#]     # TAG names should always be lowercase
 ---
+
